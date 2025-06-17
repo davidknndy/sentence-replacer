@@ -1,7 +1,7 @@
 # ✨ Sentence Replacer – Clipboard Grammar Fixer
 
-A simple and powerful Python tool that instantly improves your writing using ChatGPT.  
-Just copy any text, press `Ctrl + Alt + S`, and your clipboard will be replaced with a clearer, more professional version — ready to paste.
+A simple and powerful Python tool that improves your writing almost instantly using ChatGPT.  
+Just copy any text, press `Ctrl + Alt + S`, and your clipboard will be replaced with a clearer, more professional version, ready to paste.
 
 ---
 
@@ -25,8 +25,8 @@ Just copy any text, press `Ctrl + Alt + S`, and your clipboard will be replaced 
 
 ## 🚀 Features
 
-- ✅ Instant grammar and clarity improvement via OpenAI API
 - 🔥 Works entirely through hotkeys (no interface)
+- ✅ Almost Instant grammar and clarity improvement via OpenAI API
 - 📋 Replaces clipboard content automatically
 - 🖥️ Runs silently in the system tray (`.pyw` version)
 - 🔐 Keeps your API key safe via `.env`
