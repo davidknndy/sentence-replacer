@@ -40,7 +40,7 @@ Just copy any text you've written, press `Ctrl + C`, then `Ctrl + Alt + S`. Wait
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/sentence-replacer.git
+git clone https://github.com/davidknndy/sentence-replacer.git
 cd sentence-replacer
 ```
 
@@ -68,7 +68,7 @@ python sentencereplacer.py
 pythonw SentReplacer.pyw
 ```
 
-In tray mode, you can right-click the icon and select Exit, or press `Esc` on your keyboard.
+In tray mode, you can right-click the icon and select Exit.
 
 ---
 
