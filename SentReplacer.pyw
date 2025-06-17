@@ -1,3 +1,5 @@
+# Created and developed by David Kennedy
+
 import openai
 import pyperclip
 import keyboard
