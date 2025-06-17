@@ -29,10 +29,9 @@ Just copy any text you've written, press `Ctrl + C`, then `Ctrl + Alt + S`. Wait
 ## 🚀 Features
 
 - 🔥 Works entirely through hotkeys (no interface)
-- ✅ Almost Instant grammar and clarity improvement via OpenAI API
+- ✅ Almost instant grammar and clarity improvement via OpenAI API
 - 📋 Replaces clipboard content automatically
 - 🖥️ Runs silently in the system tray (`.pyw` version)
-- 🔐 Keeps your API key safe via `.env`
 
 ---
 
