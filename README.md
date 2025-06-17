@@ -1,7 +1,10 @@
 # ✨ Sentence Replacer – Clipboard Grammar Fixer
 
-A simple and powerful Python tool that improves your writing almost instantly using ChatGPT.  
-Just copy any text, press `Ctrl + Alt + S`, and your clipboard will be replaced with a clearer, more professional version, ready to paste.
+---
+
+A simple and powerful Python tool that instantly enhances your writing using ChatGPT—no need to manually open ChatGPT and request improvements every time! =D
+
+Just copy any text you've written, press `Ctrl + C`, then `Ctrl + Alt + S`. Wait about 2 seconds, this allows the tool to send your text to OpenAI and retrieve the improved version. Your clipboard will then be replaced with a clearer, more professional version, ready to paste.
 
 ---
 
@@ -41,21 +44,13 @@ git clone https://github.com/yourusername/sentence-replacer.git
 cd sentence-replacer
 ```
 
-### 2. Install Requirements
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Add Your OpenAI API Key
+### 2. Add Your OpenAI API Key
 
 Create a file called `.env` in the project root. Paste the following line into it (replace with your real key):
 
 ```env
-OPEN_API_KEY=sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+OPEN_API_KEY=sk-XXXXXXXXXXXXXXX
 ```
-
-❗ **Important:** This file is already included in `.gitignore` so your key won't be uploaded to GitHub.
 
 ---
 
@@ -85,7 +80,7 @@ sentence-replacer/
 ├── SentReplacer.pyw         # Silent tray version (no console)
 ├── requirements.txt         # Dependencies
 ├── .gitignore               # Ignores .env and unnecessary files
-├── .env                     # Contains your OpenAI API key (NOT uploaded)
+├── .env                     # Contains your OpenAI API key
 ├── text.ico                 # Icon for system tray
 ├── README.md
 ```
