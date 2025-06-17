@@ -2,7 +2,7 @@
 
 ---
 
-A simple and powerful Python tool that instantly enhances your writing using ChatGPT—no need to manually open ChatGPT and request improvements every time! =D
+A simple and powerful Python tool that instantly enhances your writing using ChatGPT, no need to manually open ChatGPT and request improvements every time! =D
 
 Just copy any text you've written, press `Ctrl + C`, then `Ctrl + Alt + S`. Wait about 2 seconds, this allows the tool to send your text to OpenAI and retrieve the improved version. Your clipboard will then be replaced with a clearer, more professional version, ready to paste.
 
