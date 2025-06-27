@@ -29,7 +29,7 @@ def improve_clipboard_text():
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",  # Or "gpt-4.1-mini"
             messages=[
-                {"role": "user", "content": f"Fix grammar and clarity of this:\n\n{original_text}"}
+                    {"role": "user", "content": f"Fix grammar and clarity of this. Only return the improved text, with no explanation or preamble:\n\n{original_text}"}
             ],
             temperature=0.3
         )
